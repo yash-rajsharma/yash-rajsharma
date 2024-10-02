@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <br/> Yash Raj Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" alt="Coding" width ="400" src = "https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif" -->
+<img align="right" alt="Coding" width ="400" src = "https://imgs.search.brave.com/uB0F4ViIUM8Ll8p3-GlmOWTqFICmT_66FpjRQt9UN6A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvd29tYW4t/Y29tcHV0ZXItc3lz/dGVtLWNvZGluZy15/NjE1bTE3NTJlMnI2/OGlzLmdpZg.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenamisyash&label=Profile%20views&color=0e75b6&style=flat" alt="thenamisyash" /> </p>
 
