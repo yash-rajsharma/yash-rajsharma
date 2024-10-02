@@ -1,8 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/thenamisyash/backgroundimage/refs/heads/main/634831c0-2076-416a-ae7d-589ffa16545d.webp?token=GHSAT0AAAAAACYLFAZ47US5OILYRNCR3TAQZX5IAQQ)]
+![MasterHead](https://raw.githubusercontent.com/thenamisyash/backgroundimage/refs/heads/main/634831c0-2076-416a-ae7d-589ffa16545d.webp?token=GHSAT0AAAAAACYLFAZ47US5OILYRNCR3TAQZX5IAQQ)
 
-<h1 align="center">Hi 👋, I'm Yash Raj Sharma</h1>
+<h1 align="center">Hi 👋, I'm <br/> Yash Raj Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width ="400" src = "https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif"
+<!-- <img align="right" alt="Coding" width ="400" src = "https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenamisyash&label=Profile%20views&color=0e75b6&style=flat" alt="thenamisyash" /> </p>
 
@@ -15,6 +15,11 @@
 - 📫 How to reach me **ys66291@gmail.com**
 
 - ⚡ Fun fact **Objects are like my favorite playlists—always organized and easy to find. Arrays? They're just chaos in a box!**
+
+<h3 algin="left">Summary: </h3>
+<p align="left">
+Hi, I’m Yash Raj Sharma, a Software Developer. I specialize in creating dynamic and efficient solutions, with expertise in React, JavaScript, TypeScript, Node.js, LoopBack CLI, PostgreSQL, Git/GitHub, RESTful APIs, and third-party integrations. I focus on writing clean code with efficient algorithms, aiming for time complexities of O(n) or O(log n). I also have a good understanding of Bitbucket and Jira, and I thrive on problem-solving and adapting to new challenges in a professional setting.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
