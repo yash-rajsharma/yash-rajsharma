@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/thenamisyash/backgroundimage/refs/heads/main/634831c0-2076-416a-ae7d-589ffa16545d.webp?token=GHSAT0AAAAAACYLFAZ47US5OILYRNCR3TAQZX5IAQQ)
+![Yash](https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png?v=1619126283)
 
 <h1 align="center">Hi 👋, I'm <br/> Yash Raj Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
