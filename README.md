@@ -1,4 +1,4 @@
-![Yash](https://raw.githubusercontent.com/thenamisyash/backgroundimage/refs/heads/main/A_stylish_and_modern_illustration_of_a_software_de.jpg?token=GHSAT0AAAAAACYLFAZ4N2BBWMTVOPVBQQ7OZX6OKWQ)
+![Yash](https://raw.githubusercontent.com/thenamisyash/demoRepo/refs/heads/main/A_stylish_and_modern_illustration_of_a_software_de.jpg)
 
 <h1 align="center">Hi 👋, I'm <br/> Yash Raj Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
