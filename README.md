@@ -10,11 +10,12 @@
 
 - 🔭 I’m currently working on [TC Global](https://tcglobal.com/)
 
-- 💬 Ask me about **React, Data Structures**
+- 💬 Ask me about **React, Data Structures and Algorithms**
 
 - 📫 How to reach me **ys66291@gmail.com**
 
 - ⚡ Fun fact **Objects are like my favorite playlists—always organized and easy to find. Arrays? They're just chaos in a box!**
+
 
 <h3 algin="left">Summary: </h3>
 <p align="left">
