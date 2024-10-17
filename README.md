@@ -10,9 +10,13 @@
 
 - 🔭 I’m currently working on [TC Global](https://tcglobal.com/)
 
+- 👨‍💻 All my porjects are available at [Github](https://github.com/yash-rajsharma)
+
 - 💬 Ask me about **React, Data Structures and Algorithms**
 
 - 📫 How to reach me **ys66291@gmail.com**
+
+- 📄 Know about My experiences [Resume](https://drive.google.com/file/d/1-AXyigvaqxuWzBste4hN-fbfuaQff4ko/view?usp=drivesdk)
 
 - ⚡ Fun fact **Objects are like my favorite playlists—always organized and easy to find. Arrays? They're just chaos in a box!**
 
