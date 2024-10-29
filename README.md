@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [TC Global](https://tcglobal.com/)
 
-- 👨‍💻 All my porjects are available at [Github](https://github.com/yash-rajsharma)
+- 👨‍💻 All my projects are available at [Github](https://github.com/yash-rajsharma)
 
 - 💬 Ask me about **React, Data Structures and Algorithms**
 
