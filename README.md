@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ys66291@gmail.com**
 
-- 📄 Know about My experiences [Resume](https://drive.google.com/file/d/1-n-TvPW2nuZgvpB6KTRlw-TZZOyd7EXt/view?usp=sharing)
+- 📄 Know about My experiences [Resume](https://drive.google.com/file/d/1hgGtv-IY8_rsEAkvo-HNzNf2Nyc-h2Z1/view?usp=sharing)
 
 - ⚡ Fun fact **Objects are like my favorite playlists—always organized and easy to find. Arrays? They're just chaos in a box!**
 
