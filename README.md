@@ -39,4 +39,3 @@ Hi, I’m Yash Raj Sharma, a Software Developer. I specialize in creating dynami
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-rajsharma&show_icons=true&locale=en" alt="yash-rajsharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-rajsharma&" alt="yash-rajsharma" /></p>
