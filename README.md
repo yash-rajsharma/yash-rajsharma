@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ys66291@gmail.com**
 
-- 📄 Know about My experiences [Resume](https://drive.google.com/file/d/19ClcgK2XxLvEYNmYWwSqOB-tfpRCqkNR/view?usp=sharing)
+- 📄 Know about My experiences [Resume](https://drive.google.com/file/d/1kJ7i_IUYSoh8OsvMQStsp5NWj9Pz95dh/view?usp=drive_link)
 
 - ⚡ Fun fact **In JavaScript, everything is an object, including your last interview anxiety**
 
